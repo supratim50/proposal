@@ -1,6 +1,5 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import NoBtn from './NoBtn';
-import './App.css'
 
 function App() {
   // https://media.tenor.com/mxg1RwQmzQQAAAAi/peach-goma-love-pat-head-cheek.gif
